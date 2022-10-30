@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.example",
+    "module": "Rectangle",
+    "version": "1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.3",
+      "buildId": "tmdcqvfclfemhb36yapkiww2ku"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "Rectangle-1.0-SNAPSHOT.jar",
+          "url": "Rectangle-1.0-SNAPSHOT.jar",
+          "size": 1543,
+          "sha512": "6decb58231cddfdbe42f2ec3883f87f53c4f31e3d939540594be86405c66b261f6870d4051745283f83b3e2c73fd64a91ef4623f3e0ee006f4d60bc1d3c65fcb",
+          "sha256": "085fb3d6fc7df65864d6eb5bf97f4aa24fd99d5ca8e954c5004f8a71f6227143",
+          "sha1": "1ae760e2d5984a906b8fa7b8a928768033073e42",
+          "md5": "c8f64ad56e2434f81775e3e74d789e09"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "Rectangle-1.0-SNAPSHOT.jar",
+          "url": "Rectangle-1.0-SNAPSHOT.jar",
+          "size": 1543,
+          "sha512": "6decb58231cddfdbe42f2ec3883f87f53c4f31e3d939540594be86405c66b261f6870d4051745283f83b3e2c73fd64a91ef4623f3e0ee006f4d60bc1d3c65fcb",
+          "sha256": "085fb3d6fc7df65864d6eb5bf97f4aa24fd99d5ca8e954c5004f8a71f6227143",
+          "sha1": "1ae760e2d5984a906b8fa7b8a928768033073e42",
+          "md5": "c8f64ad56e2434f81775e3e74d789e09"
+        }
+      ]
+    }
+  ]
+}
